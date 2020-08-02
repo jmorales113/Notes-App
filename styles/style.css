@@ -142,4 +142,9 @@ a {
     width: 100%;
 }
 
+.empty-message {
+    text-align: center;
+    margin: 3.2rem 0;
+}
+
 
