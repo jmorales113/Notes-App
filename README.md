@@ -2,4 +2,4 @@
 
 # Deployed Application
 
-https://infallible-lumiere-dfb497.netlify.app
+https://jmorales-notes-app.netlify.app/
