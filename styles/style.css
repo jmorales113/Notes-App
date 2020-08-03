@@ -81,6 +81,7 @@ a:hover {
 .input {
     border: 1px solid #DEDFE0;
     border-radius: 5px;
+    outline: none;
     font-size: 1.4rem;
     font-weight: 300;
     height: 3rem;
@@ -91,6 +92,7 @@ a:hover {
 .dropdown {
     border-radius: 0;
     border: 1px solid #DEDFE0;
+    outline: none;
     background: white;
     font-size: 1.4rem;
     font-weight: 300;
@@ -112,15 +114,18 @@ a:hover {
 .button:hover {
     background: #396684;
     border-bottom: 2px solid #396684;
+    outline: none;
 }
 
 .button-secondary {
-    background: red;
-    border-bottom: 2px solid red;
+    background: #396684;
+    border-bottom: 2px solid #396684;
 }
 
 .button-secondary:hover {
-    background: #396684;
+    background: red;
+    border-bottom: 2px solid red;
+    outline: none
 }
 
 /* Note editor */
