@@ -46,7 +46,7 @@ const generateNoteDOM = (note) => {
     noteEl.classList.add("list-item")
 
     // Setup the status messsage
-    statusEl.textContent = generateLastEdited(note.UpdatedAt)
+    statusEl.textContent = generateLastEdited(note.updatedAt)
     statusEl.classList.add("list-item_subtitle")
     noteEl.appendChild(statusEl)
 

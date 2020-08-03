@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="/styles/style.css" rel="stylesheet">
-        <title>Notes</title>
+        <title>Notes App</title>
     </head>
     <body>
         <header class="header" >
@@ -24,9 +24,10 @@
                 </select>
             </div>
         </div>
-        <div id="notes"></div>
-        <button id="create-note">Create Note</button>
-        
+        <div class="container">
+                <div id="notes"></div>
+                <button id="create-note" class="button">Create Note</button>
+        </div>
         <script src="/scripts/uuidv4.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment-with-locales.min.js"></script>
         <script src="/scripts/notes-functions.js"></script>

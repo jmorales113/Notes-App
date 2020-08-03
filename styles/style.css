@@ -11,7 +11,8 @@ html {
 }
 
 body {
-  color: #333333;
+  color: black;
+  background-color: lightgray;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.6rem;
 }
@@ -53,8 +54,8 @@ a {
 /* Actions Bar */
 
 .actions {
-    background-color: #F7F7F7;
-    border-bottom: 1px solid #dedfe0;
+    background-color: lightgray;
+    border-bottom: 2px dotted #43799c ;
     padding: .8rem
 }
 
