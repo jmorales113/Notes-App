@@ -22,7 +22,11 @@ button {
 }
 
 a {
-    color: #396684;
+    color: blue;
+}
+
+a:hover {
+    color: blue
 }
 
 /* Container */
@@ -123,6 +127,7 @@ a {
 
 .title-input {
     border: 1px solid #DEDFE0;
+    outline: none;
     font-size: 2rem;
     font-weight: 300;
     display: block;
@@ -133,6 +138,7 @@ a {
 
 .body-input {
     border: 1px solid #DEDFE0;
+    outline: none;
     font-family: inherit;
     font-size: 1.6rem;
     font-weight: 300;
