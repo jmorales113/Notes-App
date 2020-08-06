@@ -47,7 +47,6 @@ https://jmorales-notes.netlify.app
 ![Notes](https://user-images.githubusercontent.com/57970306/89587585-bfeb0a80-d7f6-11ea-9ac8-8649ce9de56a.PNG)
 ![Notes-1](https://user-images.githubusercontent.com/57970306/89587590-c1b4ce00-d7f6-11ea-8706-ce32ecf60361.PNG)
 ![Notes-2](https://user-images.githubusercontent.com/57970306/89587594-c4172800-d7f6-11ea-8332-cb600d6d037c.PNG)
-![Notes-3](https://user-images.githubusercontent.com/57970306/89587599-c5485500-d7f6-11ea-8274-90fa4ad6eea9.PNG)
 ![Notes-4](https://user-images.githubusercontent.com/57970306/89587603-c7121880-d7f6-11ea-9bb5-c671b57e7c57.PNG)
 
 
