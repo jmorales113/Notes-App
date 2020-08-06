@@ -8,7 +8,7 @@ A notes application for saving your notes so you never forget!
 
 ## Features
 
-Add, remove and save your notes! You can also filter your notes to find them faster and sort your notes by last edited, recently created and alphabetically.
+Add, remove and save your notes! You can add a body to your note title and also filter your notes to find them faster and sort your notes by last edited, recently created and alphabetically.
 
 ## Installation
 
