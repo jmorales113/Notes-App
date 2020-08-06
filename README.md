@@ -49,8 +49,6 @@ https://jmorales-notes.netlify.app
 ![Notes-2](https://user-images.githubusercontent.com/57970306/89587594-c4172800-d7f6-11ea-8332-cb600d6d037c.PNG)
 ![Notes-4](https://user-images.githubusercontent.com/57970306/89587603-c7121880-d7f6-11ea-9bb5-c671b57e7c57.PNG)
 
-
-
 ## Contributor
 
 -  [Jorge Morales](https://github.com/jmorales113)
