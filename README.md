@@ -23,6 +23,7 @@ Add, remove and save your notes! You can also filter your notes to find them fas
  - HTML
  - CSS
  - JavaScript
+ - Local Storage
  - Moment
  - Babel
  - Webpack
