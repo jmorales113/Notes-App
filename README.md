@@ -2,4 +2,4 @@
 
 # Deployed Application
 
-https://jmorales-notes-app.netlify.app/
+https://jmorales-notes.netlify.app
