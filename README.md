@@ -4,7 +4,7 @@
 
 ## Description
 
-A Notes application for saving your notes so you never forget! 
+A notes application for saving your notes so you never forget! 
 
 ## Features
 
